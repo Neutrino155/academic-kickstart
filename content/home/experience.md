@@ -1,12 +1,9 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experience"
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+# ... Put Your Section Options Here (title etc.) ...
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,33 +15,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Student Demonstrator"
-  company = "Department of Physics, ICL"
-  company_url = "https://www.imperial.ac.uk/physics"
-  location = "London"
-  date_start = "2019-10-01"
-  date_end = "2019-11-31"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
-  Responsibilities included:
+  Responsibilities include:
   
-  * Helped teach students to program in Python using Spyder and Jupyter notebooks.
-  * Answered student’s questions and engaged in discussions with them to examine their knowledge.
-  * Encouraged student to keep and maintain their computing lab-books.
-  * Showed students how to solve their problems independently by debugging, looking at documentation, googling etc.
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Intern"
-  company = "Cyber First"
-  company_url = "https://www.gchq-careers.co.uk/early-careers/cyberfirst.html"
-  location = "Scarborough"
-  date_start = "2017-07-01"
-  date_end = "2017-08-31"
-  description = """
-  
-  * Investigated the impact and theory of/behind Digital Footprints, Open Source Intelligence, Ethical Hacking, Big Data, the Internet of Things, Industrial Control Systems,         Networks and Communications, Operating Systems and Malware.
-  * Built and configured both physical and virtual networks with the intent for them to withstand pen-testing/hacking.
-  * Implemented ethical hacking and pen-testing techniques.
-  """
-
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 +++
