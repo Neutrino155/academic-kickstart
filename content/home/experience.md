@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Student Demonstrator"
+  company = "Department of Physics, ICL"
+  company_url = "https://www.imperial.ac.uk/physics"
+  location = "London"
+  date_start = "2019-10-01"
+  date_end = "2019-11-31"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Helped teach students to program in Python using Spyder and Jupyter notebooks.
+  * Answered student’s questions and engaged in discussions with them to examine their knowledge.
+  * Encouraged student to keep and maintain their computing lab-books.
+  * Showed students how to solve their problems independently by debugging, looking at documentation, googling etc.
   """
 
 [[experience]]
