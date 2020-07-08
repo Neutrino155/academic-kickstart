@@ -33,11 +33,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Intern"
+  company = "Cyber First"
+  company_url = "https://www.gchq-careers.co.uk/early-careers/cyberfirst.html"
+  location = "Scarborough"
+  date_start = "2017-07-01"
+  date_end = "2017-08-31"
+  description = """
+  * Investigated the impact and theory of/behind Digital Footprints, Open Source Intelligence, Ethical Hacking, Big Data, the Internet of Things, Industrial Control Systems,         Networks and Communications, Operating Systems and Malware.
+  * Built and configured both physical and virtual networks with the intent for them to withstand pen-testing/hacking.
+  * Implemented ethical hacking and pen-testing techniques.
+  """
 +++
