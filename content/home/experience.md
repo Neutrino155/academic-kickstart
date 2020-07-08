@@ -17,9 +17,10 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Student Demonstrator"
-  company = "Department of Physics, ICL"
+  company = "Department of Physics ICL"
   company_url = "https://www.imperial.ac.uk/physics"
   location = "London"
   date_start = "2019-10-01"
@@ -29,7 +30,6 @@ date_format = "Jan 2006"
   
   * Helped teach students to program in Python using Spyder and Jupyter notebooks.
   * Answered student’s questions and engaged in discussions with them to examine their knowledge.
-  * Encouraged student to keep and maintain their computing lab-books.
   * Showed students how to solve their problems independently by debugging, looking at documentation, googling etc.
   """
 
