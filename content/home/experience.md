@@ -23,9 +23,16 @@ date_format = "Jan 2006"
   company = "Department of Physics, ICL"
   company_url = "https://www.imperial.ac.uk/physics"
   location = "London"
-  date_start = "2019-04-01"
-  date_end = "2019-05-31"
-  description = """ Hi """
+  date_start = "2019-010-01"
+  date_end = "2019-011-31"
+  description = """
+  Responsibilities included:
+  
+  * Helped teach students to program in Python using Spyder and Jupyter notebooks.
+  * Answered student’s questions and engaged in discussions with them to examine their knowledge.
+  * Encouraged student to keep and maintain their computing lab-books.
+  * Showed students how to solve their problems independently by debugging, looking at documentation, googling etc.
+  """
 
 [[experience]]
   title = "Intern"
