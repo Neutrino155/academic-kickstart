@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Department of Physics, ICL"
   company_url = "https://www.imperial.ac.uk/physics"
   location = "London"
-  date_start = "2019-010-01"
-  date_end = "2019-011-31"
+  date_start = "2019-10-01"
+  date_end = "2019-10-31"
   description = """
   Responsibilities included:
   
