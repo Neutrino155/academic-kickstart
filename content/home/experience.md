@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Student Demonstrator"
   company = "Department of Physics ICL"
-  company_url = "https://www.imperial.ac.uk/physics"
+  company_url = "https://www.imperial.ac.uk/physics.co.uk"
   location = "London"
   date_start = "2019-10-01"
   date_end = "2019-11-31"
