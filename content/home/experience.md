@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   description = """
   
-  * Investigated the impact and theory of/behind Digital Footprints, Open Source Intelligence, Ethical Hacking, Big Data, the Internet of Things, Industrial Control Systems, Networks and Communications, Operating Systems and Malware.
+  * Investigated the impact and theory of/behind Digital Footprints, Open Source Intelligence, Ethical Hacking, Big Data, the Internet of Things, Industrial Control Systems,         Networks and Communications, Operating Systems and Malware.
   * Built and configured both physical and virtual networks with the intent for them to withstand pen-testing/hacking.
   * Implemented ethical hacking and pen-testing techniques.
   """
