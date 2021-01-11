@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include strongly-correlated electrons, many-body systems and statistical physics.
 
 interests:
-- Monte Carlo & Machine Learning
+- Monte Carlo Processes & Machine Learning
 - Non-perturbative theories
-- Complexity & Emergence
+- Path-integration methods
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the Experimental Solid State group at Imperial College London. My research interests include Feynman variational methods, Diagrammatic Monte-Carlo and Holography.
+I am a Ph.D. student in the Experimental Solid State group at Imperial College London. My research interests include Feynman variational methods, Diagrammatic Monte-Carlo and Path integration.
